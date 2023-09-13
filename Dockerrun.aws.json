@@ -1,7 +1,7 @@
 {
    "AWSEBDockerrunVersion": "1",
    "Authentication": {
-      "Bucket": "lks-fikri-skenda", 
+      "Bucket": "credential-for-lks", 
       "Key": "config.json"
    },
    "Image": {
